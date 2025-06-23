@@ -1,6 +1,6 @@
 str N5 R0
 str N3 R1
-add R0 0 R0
+add R0 2 R2
 dec R1 R1
 jmf N21 L6
 jmp L2
