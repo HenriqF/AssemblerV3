@@ -18,7 +18,7 @@ def binario(num, binMode = 0):
     return "".join(answer)
 
 comandos = {
-    "inc" : "10010",
+    "inc" : "10000",
     "dec" : "01000",
     "sub" : "01010",
     "add" : "00000",
